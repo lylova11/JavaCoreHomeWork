@@ -1,6 +1,7 @@
+package hw1;
 
-
-
+import hw1.Course;
+import hw1.Player;
 
 public class RunClass {
 

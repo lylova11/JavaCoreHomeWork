@@ -1,3 +1,7 @@
+package hw1;
+
+import hw1.Player;
+
 public class Team {
 
     private String name;
