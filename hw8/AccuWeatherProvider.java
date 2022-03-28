@@ -1,7 +1,9 @@
-package hw7.project;
+package hw8;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import hw7.project.enums.Periods;
+import hw8.project.dto.ApplicationGlobalState;
+import hw8.project.dto.WeatherProvider;
+import hw8.project.dto.enums.Periods;
 import okhttp3.HttpUrl;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;

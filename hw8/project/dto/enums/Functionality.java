@@ -1,4 +1,4 @@
-package hw7.project.enums;
+package hw8.project.dto.enums;
 
 public enum Functionality {
     GET_CURRENT_WEATHER,

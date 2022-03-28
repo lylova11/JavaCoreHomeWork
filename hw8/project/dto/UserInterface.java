@@ -1,7 +1,6 @@
-package hw7.project;
+package hw8.project.dto;
 
-import hw7.project.ApplicationGlobalState;
-import hw7.project.Controller;
+import hw8.ApplicationGlobalState;
 
 import java.io.IOException;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package hw7.project;
+package hw8.project.dto;
 
 public class MainApp {
 

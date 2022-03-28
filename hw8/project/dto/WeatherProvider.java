@@ -1,6 +1,6 @@
-package hw7.project;
+package hw8.project.dto;
 
-import hw7.project.enums.Periods;
+import hw8.project.dto.enums.Periods;
 
 import java.io.IOException;
 
